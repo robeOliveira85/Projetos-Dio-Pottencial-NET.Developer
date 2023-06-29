@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "ECommerce.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "launchUrl": "",
+      "applicationUrl": "http://localhost:5182",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATABASE_CONNECTION_STRING": "Server=127.0.0.1;Port=5432;Database=ecommerce-Test;User Id=admin;Password=admin-password;",
+        "JWT_SUBJECT": "ECOMMERCE_SUBJECT",
+        "JWT_ISSUER": "ECOMMERCE_ISSUER",
+        "JWT_AUDIENCE": "ECOMMERCE_AUDIENCE",
+        "JWT_KEY": "9a5835502c69a59d42d5438316d3d43cd2fb0bdd789b3de98f1d0d58e25dbaa5"
+      }
+    }
+  }
+}

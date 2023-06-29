@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\bin\Debug\net6.0\SistemasParaCelulares.exe
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\bin\Debug\net6.0\SistemasParaCelulares.deps.json
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\bin\Debug\net6.0\SistemasParaCelulares.runtimeconfig.json
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\bin\Debug\net6.0\SistemasParaCelulares.dll
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\bin\Debug\net6.0\SistemasParaCelulares.pdb
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.AssemblyInfo.cs
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.dll
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\refint\SistemasParaCelulares.dll
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.pdb
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\SistemasParaCelulares.genruntimeconfig.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\SistemasParaCelulares\obj\Debug\net6.0\ref\SistemasParaCelulares.dll

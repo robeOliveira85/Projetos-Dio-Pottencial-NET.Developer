@@ -1,0 +1,15 @@
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+D:\Projetos\Projetos Rob\dio\bootcamp-potencial-net-developer-dio\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
